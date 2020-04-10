@@ -19,11 +19,11 @@ Librerías
 
 # Detalles de compilación y ejecución
 
-1. Ejecutar comando Maven en el directorio raíz del proyecto:
+1. Ejecutar comando Maven en el directorio raíz del proyecto.
 ```bash
 > mvn clean 
 ```
-2. Ejecutar archivo .jar creado en paso anterior
+2. Ejecutar comando Maven para inicializar API.
 ```bash
 > mvn spring-boot:run
 ```
