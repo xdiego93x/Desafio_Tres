@@ -16,7 +16,6 @@ Librerías
 - Gson
 - Generador_Datos_Desafio_Tres-1.0.0
 
-
 # Detalles de compilación y ejecución
 
 1. Ejecutar comando Maven en el directorio raíz del proyecto.
